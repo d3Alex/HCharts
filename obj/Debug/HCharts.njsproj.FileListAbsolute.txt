@@ -1,0 +1,2 @@
+C:\Examples\NodeMondo\HCharts\obj\Debug\HCharts.njsprojResolveAssemblyReference.cache
+C:\Examples\NodeMondo\HCharts\bin\Microsoft.NodejsTools.WebRole.dll
